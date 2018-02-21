@@ -1,7 +1,7 @@
 # asx_tsr_analytics
 The analysis of transaction's impact on Total Shareholder's Return (TSR). This study examined whether deals created sustainable shareholder value.
 
-Hypothesis Tested:
+<h3>Hypothesis Tested:</h3>
 
 Is there any relation between frequency of M&A activities?
 
