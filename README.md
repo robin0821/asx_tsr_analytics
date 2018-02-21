@@ -3,26 +3,26 @@ The analysis of transaction's impact on Total Shareholder's Return (TSR). This s
 
 <h3>Hypothesis Tested:</h3>
 
-Is there any relation between frequency of M&A activities?
+<li>Is there any relation between frequency of M&A activities?</li>
 
-Is there any relations between relative size of target and acquirer?
+<li>Is there any relations between relative size of target and acquirer?</li>
 
-Is there any relations between divestiture and overall performance?
+<li>Is there any relations between divestiture and overall performance?</li>
 
 <h3>Company Performance comparing:</h3>
 
-Companies growing through acquisitions relative to those growing purely through organic strategies 
+<li>Companies growing through acquisitions relative to those growing purely through organic strategies </li>
 
-Acquirers targeting large vs small businesses (relative to their size)
+<li>Acquirers targeting large vs small businesses (relative to their size)</li>
 
-Periodic acquirers vs consistent acquirers 
+<li>Periodic acquirers vs consistent acquirers </li>
 
-Local vs offshore acquirers 
+<li>Local vs offshore acquirers </li>
 
-Industry only vs cross-industry
+<li>Industry only vs cross-industry</li>
 
-YoY growth rates in revenues vs YoY growth rates in costs, for most frequent acquirers vs non acquirers
+<li>YoY growth rates in revenues vs YoY growth rates in costs, for most frequent acquirers vs non acquirers</li>
 
-Level of contestability of the transaction (shareholder pushback, media coverage)
+<li>Level of contestability of the transaction (shareholder pushback, media coverage)</li>
 
 
