@@ -9,7 +9,7 @@ Is there any relations between relative size of target and acquirer?
 
 Is there any relations between divestiture and overall performance?
 
-Company Performance comparing:
+<h3>Company Performance comparing:</h3>
 
 Companies growing through acquisitions relative to those growing purely through organic strategies 
 
